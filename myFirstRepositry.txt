@@ -6,3 +6,4 @@ end
 dark mode
 white mode
 video calls
+phone calls
