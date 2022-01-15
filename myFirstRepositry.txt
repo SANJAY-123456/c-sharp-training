@@ -6,3 +6,7 @@ end
 dark mode
 white mode
 video calls
+
+payment mode
+deposie mode
+crated mode
