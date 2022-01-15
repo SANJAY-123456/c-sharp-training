@@ -3,3 +3,6 @@ emoji
 type
 colors
 end
+dark mode
+white mode
+video calls
